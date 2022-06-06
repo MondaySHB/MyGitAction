@@ -9,6 +9,9 @@ on:
     # paths: 
     #   - "ProjectSettings/ProjectVersion.txt"
 
+env:
+  # 사용하고 있는 Unity version 
+  unityVersion: 2021.3.2f1
 
 jobs:
   activation:
