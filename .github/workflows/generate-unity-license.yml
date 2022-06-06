@@ -11,7 +11,7 @@ on:
 
 env:
   # 사용하고 있는 Unity version 
-  unityVersion: 2019.3.13f1
+  unityVersion: 2021.3.2f1
 
 jobs:
   activation:
